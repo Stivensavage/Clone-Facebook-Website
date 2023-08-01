@@ -2,7 +2,7 @@
 
 <h2 align="center">Clon Facebook---Sign in or register</h2>
 
-<img src="./img/index_html.jpg">
+<img src="./img/clone-facebook-website-index_html.jpg">
 
 
 Here's my `index.html`:
